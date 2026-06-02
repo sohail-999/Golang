@@ -1,1 +1,1 @@
-Hi everyone, i m learning go and try to understand the stuff in this language and in the repository named Golang and im posting my coding related practices  , the resources i m using are from freeroadmap&code with tim, thanks :)
+Hi everyone, i m learning go and try to understand the stuff in this language and in the repository named Golang and im posting my coding related practices  , the resources i m using are from freeroadmap&code with tim,code with nana , code with geeks thanks :)
